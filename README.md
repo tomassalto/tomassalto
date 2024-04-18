@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomassalto.
-- 👀 I’m interested in PHP.
-- 🌱 I’m currently learning Laravel 9 and MySQL.
+- 👀 I’m interested in PHP and React.
+- 🌱 I’m currently learning TypeScript and Drupal.
 - 📫 How to reach me: tomasagustinsalto@gmail.com
 
 <!---
