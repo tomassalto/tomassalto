@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomassalto.
-- 👀 I’m interested in PHP and React.
-- 🌱 I’m currently learning TypeScript and Drupal.
+- 👀 I’m interested in Astro, React, PHP and MySQL.
+- 🌱 I’m currently learning Next, TypeScript and MongoDB.
 - 📫 How to reach me: tomasagustinsalto@gmail.com
 
 <!---
